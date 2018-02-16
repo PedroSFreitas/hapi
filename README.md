@@ -1,4 +1,6 @@
-![HAPI Project](/readme/hapi.png?raw=true "HAPI Project")
+[![Build Status](https://travis-ci.org/mayaculpa/hapi.svg?master)](https://travis-ci.org/mayaculpa/hapi)
+
+![HAPI Project](/docs/img/hapi.png?raw=true "HAPI Project")
 
 # Zero-footprint Autonomous Food Production
 
@@ -48,6 +50,6 @@ http://hapihq.com/contact-us-2/
 However if you have found any problem or just want to make a suggestion, please check the Issue page.
 
 ## System Overview
-![System Overview of the HAPI Project](/readme/system-overview.png?raw=true "HAPI Project System Overview")
+![System Overview of the HAPI Project](/docs/img/system-overview.png?raw=true "HAPI Project System Overview")
 
 Please note: we're currently working on the system design. Some changes on this image will probably be necessary in the near future.
